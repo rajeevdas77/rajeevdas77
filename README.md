@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18QawTy84YST3C78Zx50QU8GvwflGnqp-/view?usp=sharing](https://drive.google.com/file/d/18QawTy84YST3C78Zx50QU8GvwflGnqp-/view?usp=sharing)
 
-- ⚡ Fun fact **I believe in the power of automation not just in testing, but in life! Whether it's solving complex problems or brewing the perfect cup of coffee, I'm always looking for ways to optimize and improve!**
+- ⚡**I believe in the power of automation not just in testing, but in life! Whether it's solving complex problems or brewing the perfect cup of coffee, I'm always looking for ways to optimize and improve!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
