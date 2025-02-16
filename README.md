@@ -2,18 +2,17 @@
 <h1 align="center">Hi 👋, I'm RAJEEV KUMAR DAS</h1>
 <h2 align="center">Senior QA Automation Engineer</h2>
 <h3 align="center"> 
-  | Selenium , Python , CI/CD , Pytest , RPA, Git | Test Automation Framework | Passionate about Quality Analyst and Continuous Improvement.</h3>
+  | Selenium , Python , CI/CD Jenkins , Pytest , RPA, Git| Test Automation Framework | Passionate about Quality Analyst and Continuous Improvement.</h3>
 
 <img align="right" alt="automation" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevdas77&label=Profile%20views&color=0e75b6&style=flat" alt="rajeevdas77" /> </p>
 
 
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1mMR8K2b8pGOwr3OlMiJXOqJU42TflU-H/view?usp=sharing](https://drive.google.com/file/d/1mMR8K2b8pGOwr3OlMiJXOqJU42TflU-H/view?usp=sharing)
+- 👨‍💻 All of my projects are available at 
+- 📫 How to reach me **rajeevdas3050@gmail.com**,**8050**
 
-- 📫 How to reach me **rajeevdas3050@gmail.com**,**96-3050-8833**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mMR8K2b8pGOwr3OlMiJXOqJU42TflU-H/view?usp=sharing](https://drive.google.com/file/d/1mMR8K2b8pGOwr3OlMiJXOqJU42TflU-H/view?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡**I believe in the power of automation not just in testing, but in life! Whether it's solving complex problems or brewing the perfect cup of coffee, I'm always looking for ways to optimize and improve!**
 
