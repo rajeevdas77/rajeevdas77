@@ -1,4 +1,4 @@
-![logo](https://github.com/rajeevdas77/rajeevdas77/blob/main/automation-banner-icons-autonomous-innovation-260nw-1101554528%20(1).png)
+![logo](https://github.com/rajeevdas77/rajeevdas77/blob/main/Mr.Das_Banner.png)
 <h1 align="center">Hi 👋, I'm RAJEEV KUMAR DAS</h1>
 <h2 align="center">Senior QA Automation Engineer</h2>
 <h3 align="center"> 
