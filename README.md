@@ -1,7 +1,8 @@
 ![logo](https://github.com/rajeevdas77/rajeevdas77/blob/main/Mr.Das_Banner.png)
 <h1 align="center">Hi 👋, I'm RΛJΞΞV DΛS</h1>
-<h2 align="center"> ISTQB® Certified Senior QA Automation Engineer</h2>
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center"> ISTQB® Certified</h2>
+<h3 align="center"> Senior QA Automation Engineer</h3>
+<h4 align="left">Languages and Tools:</h4>
 
 <p align="left">
 
